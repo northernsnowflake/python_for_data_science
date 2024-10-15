@@ -2,7 +2,7 @@
 Python for data science course, this repository has code done by me on lectures and while doing assignments and quizes. Consists of lecture texts as well. 
 
 
-Týden	Blok	Téma	Odkaz
+Týden	| Blok | Téma	| Odkaz
 1.	Pandas a vizualizace	Úvod, Jupyter notebooky, vizualizace	
 2.	Statistické metody	Popisná statistika a testování hypotéz	
 3.	Statistické metody	Hypotézy a statistická rozdělení	
